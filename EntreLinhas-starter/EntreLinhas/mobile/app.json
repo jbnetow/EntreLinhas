@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "EntreLinhas",
+    "slug": "entrelinhas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "br.com.entrelinhas.app"
+    },
+    "plugins": [
+      "expo-document-picker",
+      "expo-status-bar"
+    ]
+  }
+}
